@@ -28,10 +28,10 @@ module.exports = {
   apps : [{
     name   : "telegram-bot",
     script : "./index.ts",
-    cwd: "/home/silvelo/telegram-bot/",
+    cwd: "/home/silvelo/telegram-action-starter/",
     env: {
         "TOKEN": "YOUR_BOT_TOKEN",
-        "TRANSMISSION_PATH": "/home/silvelo/telegram-bot/config.json"
+        "TRANSMISSION_PATH": "/home/silvelo/telegram-action-starter/config.json"
     }
   }]
 }
