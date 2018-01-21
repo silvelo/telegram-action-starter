@@ -39,5 +39,5 @@ module.exports = {
 
 Start app
 ```
-pm2 start ecosytem
+pm2 start ecosystem
 ```
