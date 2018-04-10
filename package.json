@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@telegram-actions/core": "^2.0.0",
+    "@telegram-actions/system": "^2.2.1",
     "@telegram-actions/transmission": "^2.0.0",
     "ts-node": "^5.0.1",
     "typescript": "^2.8.1"
